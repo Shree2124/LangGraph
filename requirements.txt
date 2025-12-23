@@ -8,3 +8,5 @@ langchain_groq
 pydantic
 langchain-core
 langchain_community
+arxiv
+wikipedia
